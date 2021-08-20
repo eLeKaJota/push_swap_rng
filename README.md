@@ -7,6 +7,7 @@ Generador de números aleatorios preparado para probar y corregir el proyecto pu
 Para utilizar en los Mac de 42 necesitas tener Python3 instalado, si no lo tienes puedes instalarlo desde brew:
 ```
 brew install python3
+brew install python-tk
 ```
 
 Si no tienes brew instalado, puedes instalarlo con el script proporcionado en este enlace:
